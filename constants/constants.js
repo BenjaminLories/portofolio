@@ -5,7 +5,7 @@ export const DESIGNATION = `Full Stack Developer | Blockchain Technology`;
 export const DETAILS = {
   Residence: 'Hong Kong',
   City: 'Kowloon',
-  Age: '27',
+  Age: '28',
 };
 
 export const SKILLS = [
